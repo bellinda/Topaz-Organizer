@@ -1,0 +1,90 @@
+﻿Title: Maths
+Location: 10204
+Start time: 28.11.2013 г. 01:00:00 ч.
+End time: 28.11.2013 г. 02:00:00 ч.
+EventType: Lecture
+Title: German
+Location: 10402
+Start time: 30.11.2013 г. 01:00:00 ч.
+End time: 30.11.2013 г. 02:00:00 ч.
+EventType: Exercise
+Title: Stipendii
+Location: 
+Start time: 9.12.2013 г. 09:00:00 ч.
+End time: 9.12.2013 г. 10:00:00 ч.
+EventType: Other
+Title: EXAM
+Location: OOP
+Start time: 12.12.2013 г. 16:30:00 ч.
+End time: 12.12.2013 г. 22:30:00 ч.
+EventType: Exercise
+Title: Презентация по информатика
+Location: 
+Start time: 16.12.2013 г. 00:00:00 ч.
+End time: 16.12.2013 г. 01:00:00 ч.
+EventType: Lecture
+Title: Есе по Landeskunde
+Location: 
+Start time: 17.12.2013 г. 00:00:00 ч.
+End time: 17.12.2013 г. 01:00:00 ч.
+EventType: Exercise
+Title: Документи
+Location: 
+Start time: 16.12.2013 г. 01:00:00 ч.
+End time: 16.12.2013 г. 02:00:00 ч.
+EventType: Other
+Title: Билет и сметките !!!
+Location: 
+Start time: 17.12.2013 г. 01:00:00 ч.
+End time: 17.12.2013 г. 02:00:00 ч.
+EventType: Deadline
+Title: Домашното по математика
+Location: 
+Start time: 18.12.2013 г. 00:00:00 ч.
+End time: 18.12.2013 г. 01:00:00 ч.
+EventType: Exercise
+Title: Защита на протколи
+Location: 
+Start time: 19.12.2013 г. 10:00:00 ч.
+End time: 19.12.2013 г. 11:00:00 ч.
+EventType: Exercise
+Title: WEIHNACHTEN
+Location: 
+Start time: 25.12.2013 г. 00:00:00 ч.
+End time: 25.12.2013 г. 01:00:00 ч.
+EventType: Other
+Title: Mathe
+Location: 
+Start time: 27.12.2013 г. 08:00:00 ч.
+End time: 27.12.2013 г. 09:00:00 ч.
+EventType: Exercise
+Title: HTML Homework
+Location: 
+Start time: 29.12.2013 г. 00:00:00 ч.
+End time: 29.12.2013 г. 01:00:00 ч.
+EventType: Deadline
+Title: Math
+Location: 
+Start time: 10.1.2014 г. 01:00:00 ч.
+End time: 10.1.2014 г. 02:00:00 ч.
+EventType: Exercise
+Title: 
+Location: 
+Start time: 9.1.2014 г. 02:00:00 ч.
+End time: 9.1.2014 г. 03:00:00 ч.
+EventType: Other
+Title: 
+Location: 
+Start time: 11.1.2014 г. 03:00:00 ч.
+End time: 11.1.2014 г. 04:00:00 ч.
+EventType: Meeting
+Title: 
+Location: 
+Start time: 12.1.2014 г. 01:00:00 ч.
+End time: 12.1.2014 г. 02:00:00 ч.
+EventType: Lecture
+Title: 
+Location: 
+Start time: 9.1.2014 г. 04:00:00 ч.
+End time: 9.1.2014 г. 05:00:00 ч.
+EventType: Deadline
